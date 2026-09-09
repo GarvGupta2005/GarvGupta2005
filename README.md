@@ -130,29 +130,14 @@
 
 ---
 
+
+---
+
 ## 🐍 Contribution Snake
 
-> After creating your profile repository, add a GitHub Action to generate the snake animation automatically.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-```
-
-Then add:
-
-```md
-![Snake animation](https://github.com/GarvGupta2005/GarvGupta2005/blob/output/github-contribution-grid-snake-dark.svg)
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GarvGupta2005/GarvGupta2005/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
