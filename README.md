@@ -134,10 +134,7 @@
 ---
 
 ## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GarvGupta2005/GarvGupta2005/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+![Snake animation](https://github.com/GarvGupta2005/GarvGupta2005/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
